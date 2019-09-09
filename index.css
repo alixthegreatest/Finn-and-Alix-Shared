@@ -1,1 +1,33 @@
 
+div.main {
+	text-align: left;
+	color: gray;
+	background-color: black;
+	background-width: 200px;
+	background-height:2000px;
+	
+}
+section.instagram {
+	position:absolute;
+	right: 50px;
+	top:80px;
+	z-index: 1;
+	font-size: 100;
+	color: green;
+	
+}
+section.gcse {
+	text-align: left;
+	
+}
+section.poem {
+	color: gray;
+}
+#page {
+	color: gray;
+	
+}
+
+section.all {
+	background-color: black;
+}
